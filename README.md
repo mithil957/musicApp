@@ -5,4 +5,4 @@
 - If you want to change the sound bindings, then change the keyData variable in music.html
 - Make some sick beatz!
 
-[!Alt Text](https://github.com/mithil957/musicApp/blob/master/demo.png)
+![alt text](https://github.com/mithil957/musicApp/blob/master/demo.png)
